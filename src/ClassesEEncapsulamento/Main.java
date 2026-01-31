@@ -1,5 +1,4 @@
-import ClassesEEncapsulamento.Pet;
-import ClassesEEncapsulamento.PetMachine;
+package ClassesEEncapsulamento;
 
 import java.util.Scanner;
 
